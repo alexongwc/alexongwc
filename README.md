@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me do not test me
+- 📫 How to reach me 
 
 <!---
 cyberalex93/cyberalex93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
