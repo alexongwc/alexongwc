@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cyberalex93
-- 👀 I’m interested in cybersecurity and AI
-- 🌱 I’m currently learning Python and OpenAI
+
 
 
 
