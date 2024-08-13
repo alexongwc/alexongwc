@@ -5,7 +5,7 @@
 ---
 ✨ I'm currently an AI Apprentice at [AI Singapore](https://aisingapore.org/) working with a local hospital on a project to aid in clinicians' workflows during a Caesarean Delivery with a Time-Series related AI Solution. ✨
 
-🎓  My background is in Computer Science from the University of Wollongong and Computer Engineering from Singapore Polytechnic.🎓
+🎓  My background is in Computer Science from the University of Wollongong and Computer Engineering from Singapore Polytechnic.
 
 
 <!-- Connect section -->
